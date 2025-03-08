@@ -1,0 +1,3 @@
+iam_role_name=<your_iam_role_name>
+bucket_name_1=<bucket_1_name>
+bucket_name_2=<bucket_2_name>
