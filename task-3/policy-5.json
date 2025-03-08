@@ -1,0 +1,12 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Principal": {
+                "AWS": "<your_iam_role-assume_arn"
+            },
+            "Action": "sts:AssumeRole"
+        }
+    ]
+}
