@@ -1,0 +1,2 @@
+ROLE_NAME=<your_iam_role_name>
+BUCKET_NAME=<your_bucket_name>
